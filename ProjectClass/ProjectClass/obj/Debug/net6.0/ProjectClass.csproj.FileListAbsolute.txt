@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\C#\ProjectClass\ProjectClass\obj\Debug\net6.0\ProjectClass.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\C#\ProjectClass\ProjectClass\obj\Debug\net6.0\ProjectClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\C#\ProjectClass\ProjectClass\obj\Debug\net6.0\ProjectClass.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\C#\ProjectClass\ProjectClass\obj\Debug\net6.0\ProjectClass.AssemblyInfo.cs
+C:\Users\Asus\source\repos\C#\ProjectClass\ProjectClass\obj\Debug\net6.0\ProjectClass.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\C#\ProjectClass\ProjectClass\bin\Debug\net6.0\ProjectClass.exe
+C:\Users\Asus\source\repos\C#\ProjectClass\ProjectClass\bin\Debug\net6.0\ProjectClass.deps.json
+C:\Users\Asus\source\repos\C#\ProjectClass\ProjectClass\bin\Debug\net6.0\ProjectClass.runtimeconfig.json
+C:\Users\Asus\source\repos\C#\ProjectClass\ProjectClass\bin\Debug\net6.0\ProjectClass.dll
+C:\Users\Asus\source\repos\C#\ProjectClass\ProjectClass\bin\Debug\net6.0\ProjectClass.pdb
+C:\Users\Asus\source\repos\C#\ProjectClass\ProjectClass\obj\Debug\net6.0\ProjectClass.dll
+C:\Users\Asus\source\repos\C#\ProjectClass\ProjectClass\obj\Debug\net6.0\refint\ProjectClass.dll
+C:\Users\Asus\source\repos\C#\ProjectClass\ProjectClass\obj\Debug\net6.0\ProjectClass.pdb
+C:\Users\Asus\source\repos\C#\ProjectClass\ProjectClass\obj\Debug\net6.0\ProjectClass.genruntimeconfig.cache
+C:\Users\Asus\source\repos\C#\ProjectClass\ProjectClass\obj\Debug\net6.0\ref\ProjectClass.dll
